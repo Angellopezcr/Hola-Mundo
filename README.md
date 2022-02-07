@@ -1,5 +1,5 @@
 # Hola-Mundo
-Mi primer repositorio de prueba
+Mi primer repositorio.
 
 Autor: Angel Lopez
 Fecha: 06 02 22
